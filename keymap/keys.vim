@@ -1,0 +1,11 @@
+let mapleader=" "
+nmap <leader>w :w<CR>
+nmap <leader>q :q<CR>
+nmap <leader>wq :wq<CR>
+nmap <leader>so :so%<CR>
+nmap <leader>pi :PlugInstall<CR>
+nmap <leader>pc :PlugClean<CR>
+nmap <leader>t :FloatermNew<CR>
+nmap <leader>tt :FloatermToggle<CR>
+nmap <leader>l :bn<CR>
+nmap <leader>h :bp<CR>
