@@ -1,10 +1,12 @@
 syntax enable
 
+let g:coc_disable_startup_warning = 1
+
 set encoding=utf-8
 set spelllang=en,es
 set hidden
 set showmatch
-set nocompatible
+"set nocompatible
 
 set hlsearch
 set incsearch
@@ -35,7 +37,7 @@ set ignorecase
 set smartcase
 
 set termguicolors
-set background=dark
+"set background=dark
 
 set noswapfile
 set nobackup
@@ -45,3 +47,5 @@ set undodir=~/.config/nvim/undodir
 set undofile
 
 colorscheme gruvbox
+"colorscheme everforest
+

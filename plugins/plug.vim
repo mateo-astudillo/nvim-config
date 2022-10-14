@@ -2,6 +2,7 @@ call plug#begin()
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
 Plug 'voldikss/vim-floaterm'
 Plug 'morhetz/gruvbox'
+Plug 'sainnhe/everforest'
 Plug 'vim-airline/vim-airline' 
 Plug 'vim-airline/vim-airline-themes'
 Plug 'ryanoasis/vim-devicons'

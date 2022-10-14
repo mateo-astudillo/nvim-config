@@ -9,3 +9,4 @@ nmap <leader>t :FloatermNew<CR>
 nmap <leader>tt :FloatermToggle<CR>
 nmap <leader>l :bn<CR>
 nmap <leader>h :bp<CR>
+nmap <leader>x :bd<CR>
